@@ -1,11 +1,16 @@
 _repo: Water-Power-for-the-Farm-and-Country-Home_62117
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62117-h/images/cover.jpg
 creator:
   author:
     agent_name: Cooper, David R.
     gutenberg_agent_id: '51780'
     url: http://www.gutenberg.org/2009/agents/51780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62117#Water-Power-for-the-Farm-and-Country-Home
 gutenberg_issued: '2020-05-14'
 gutenberg_type: Text
 identifiers:
